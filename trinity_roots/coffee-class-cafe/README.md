@@ -13,4 +13,4 @@ Model Performance Metrics: Include key metrics such as Mean Squared Error (MSE),
 Recommendations: Insights derived from the model, such as the most recommended categories for specific user segments.
 
 ## Documentation
-main.ipynb contains the code for importing libraries, preprocessing data, training machine learning models, and evaluating their performance.
+[main.ipynb](https://github.com/micsupasun/company/blob/main/trinity_roots/coffee-class-cafe/main.ipynb) contains the code for importing libraries, preprocessing data, training machine learning models, and evaluating their performance.
