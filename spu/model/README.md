@@ -2,6 +2,12 @@
 
 Streamlit web application for predicting vaccine-related outcomes from Thai symptom text and patient age using a trained Character CNN model.
 
+## Live Demo
+
+Open the public web app:
+
+https://micsupasun.github.io/vaccine-outcome-prediction/
+
 ## Files
 
 - `app.py` - Streamlit web interface.
